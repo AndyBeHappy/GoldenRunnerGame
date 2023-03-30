@@ -1,2 +1,2 @@
 # GoldenRunnerGame
-Is my study profect and first game in Unity
+Is my study project and first game in Unity
